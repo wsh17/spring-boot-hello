@@ -9,7 +9,7 @@ public class Example {
 
     @RequestMapping("/")
     String home() {
-        return "Hello Metapod World!  Metapod OpenStack !! ";
+        return "Hello Metapod World!  Welcome to CiscoLive!! ";
     }
 
 public static void main(String[] args) throws Exception {
