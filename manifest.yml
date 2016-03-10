@@ -1,6 +1,6 @@
 ---
 applications:
-- name: springboot-first
+- name: springboot-Bills-Demo1
   memory: 512M
   host: springboot-Bills-Demo1
   path: target/myproject-0.0.1-SNAPSHOT.jar
