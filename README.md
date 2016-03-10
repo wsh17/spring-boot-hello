@@ -3,3 +3,4 @@
 * added new name Bills-Demo1
 * focing change to pick up Jenkins pool
 * using STS to deploy to github
+* demo number 6
