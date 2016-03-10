@@ -1,6 +1,6 @@
 ---
 applications:
-- name: springboot-Bills-Demo1
+- name: springboot-Bills-Demo2
   memory: 512M
-  host: springboot-Bills-Demo1
+  host: springboot-Bills-Demo2
   path: target/myproject-0.0.1-SNAPSHOT.jar
