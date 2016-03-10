@@ -1,6 +1,6 @@
 ---
 applications:
-- name: springboot-Bills-Demo-Mars
+- name: springboot-Bills-Demo-Mars-Lander
   memory: 512M
   host: springboot-Bills-Mars
   path: target/myproject-0.0.1-SNAPSHOT.jar
