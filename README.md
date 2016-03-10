@@ -5,3 +5,4 @@
 * using STS to deploy to github
 * demo number 6
 * Demo updated for Austin OpenStack
+* update for next demo
