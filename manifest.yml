@@ -1,6 +1,6 @@
 ---
 applications:
-- name: springboot-Bills-Demo6
+- name: springboot-Bills-Demo-Austin
   memory: 512M
-  host: springboot-Bills-Demo6
+  host: springboot-Bills-Austin
   path: target/myproject-0.0.1-SNAPSHOT.jar
