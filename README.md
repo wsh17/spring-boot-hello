@@ -6,4 +6,4 @@
 * demo number 6
 * Demo updated for Austin OpenStack
 * update for next demo
-* demo Friday run
+* demo Friday run for second time
