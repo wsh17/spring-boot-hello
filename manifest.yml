@@ -1,6 +1,6 @@
 ---
 applications:
-- name: springboot-Bills-Demo-Friday-1
+- name: Spring-boot-Hello
   memory: 512M
-  host: springboot-Bills-Demo-Friday-1
+  host: Spring-boot-Hello
   path: target/Spring-boot-Hello-0.0.1-SNAPSHOT.jar
