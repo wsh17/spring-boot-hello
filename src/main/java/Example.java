@@ -9,6 +9,7 @@ public class Example {
 
     @RequestMapping("/")
     String home() {
+    	System.out.println("Hello, Boys and Girls");
         return "Hello Metapod 2016;  Welcome to OpenStack Austin Team!!! ";
     }
 
