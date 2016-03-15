@@ -10,3 +10,4 @@
 * new demo friday run
 * CI/CD Demo Run 
 * Change Java source
+* Changed Java source to Liberty
