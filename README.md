@@ -12,3 +12,4 @@
 * Change Java source
 * Changed Java source to Liberty
 * Changed to openstack austin 
+* Fix for Health time error by adding no-route: true to manifest.yml file
