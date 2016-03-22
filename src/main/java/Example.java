@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 @EnableAutoConfiguration
 public class Example {
 
-    @RequestMapping("/")
+    @RequestMapping(value = "/")
     String home() {
         return "Hello Metapod V6.0 2016 ....  Welcome to OpenStack Austin Team !!! ";
     }
