@@ -1,7 +1,7 @@
 ---
 applications:
 - name: Spring-boot-Hello
-  memory: 512M
+  memory: 1G 
   host: Spring-boot-Hello
   path: target/Spring-boot-Hello-0.0.1-SNAPSHOT.jar
   no-route: true

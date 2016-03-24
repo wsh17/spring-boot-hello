@@ -18,3 +18,4 @@
 * new test
 * New Demo build on 3.18.2016 - Demo4
 * modified Java file with @RequestMapping(value = "/") from @RequestMapping("/")
+* Updated to 1M container size
