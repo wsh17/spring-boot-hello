@@ -8,8 +8,8 @@
 * update for next demo friday
 * demo Friday run for second time
 * new demo friday run
-* CI/CD Demo Run 
-* Change Java source
+* CI/CD Demo Run for ebc
+* Change Java source code
 * Changed Java source to Liberty
 * Changed to openstack austin 
 * trying System.out.println("Hello, World"); 
