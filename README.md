@@ -5,7 +5,7 @@
 * using STS to deploy to github
 * demo number 6
 * Demo updated for Austin OpenStack
-* update for next demo
+* update for next demo friday
 * demo Friday run for second time
 * new demo friday run
 * CI/CD Demo Run 
@@ -19,4 +19,4 @@
 * New Demo build on 3.18.2016 - Demo4
 * modified Java file with @RequestMapping(value = "/") from @RequestMapping("/")
 * Updated to 1G container size
-* Changed text in example.java  file 
+* Changed text in example.java file - force to compile
