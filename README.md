@@ -20,3 +20,4 @@
 * modified Java file with @RequestMapping(value = "/") from @RequestMapping("/")
 * Updated to 1G container size
 * Changed text in example.java file - force to compile
+* Changes to update Demo
