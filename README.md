@@ -14,7 +14,7 @@
 * Changed to openstack austin 
 * trying System.out.println("Hello, World"); 
 * take out previous change
-* New run ... 3.17
+* New run ... 3.16
 * new test
 * New Demo build on 3.18.2016 - Demo4
 * modified Java file with @RequestMapping(value = "/") from @RequestMapping("/")
